@@ -274,7 +274,7 @@ export class Content extends Component {
               <h3 class="text-lg font-bold text-white-lt sm:text-xl md:text-2xl">When can I start?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
                 The PA program launches sometime in June. But you need to become a certified HDAO PA by passing our Exam. You have plenty of time to learn the material (above) and take the Exam to enter the PA pool and start working when it launches.
-                We highly recommend you complete each of the course links provided. each should only take 1-1.5 hrs but know this info will help you complete tasks quicker and with higher quality, which means more wages.
+                We highly recommend you complete each of the course links provided. Each link should only take 1-1.5 hrs but know this info will help you complete tasks quicker and with higher quality, which means more wages.
               </p>
             </div>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
