@@ -117,7 +117,7 @@ export class Content extends Component {
         <section class="qualities bg-purple-content py-20">
           <div class="container mx-auto max-w-6xl items-center px-10 sm:px-20 md:px-32 lg:px-16">
             <div class="-mx-3 flex flex-wrap items-center">
-              <h1 class="mx-8 mt-12 font-sans text-5xl font-bold text-white-lt lg:text-6xl">What qualities should you have?</h1>
+              <h1 class="mx-2 mt-12 font-sans text-5xl font-bold text-white-lt lg:text-6xl">What qualities should you have?</h1>
               <div class="lg:order-0 order-1 mx-auto w-full px-3 lg:w-1/2">
                 <div class="w-full lg:max-w-md">
                   <ul class="">
@@ -160,20 +160,20 @@ export class Content extends Component {
           </div>
           <div class="container mx-auto px-5 py-24">
             <div class="-m-2 mx-4 flex flex-wrap rounded-2xl bg-purple-box/40 lg:mx-0">
-              <div class="p-6 lg:w-1/3 lg:p-4">
-                <div class="relative h-full rounded-lg bg-opacity-40 px-8 pt-16 pb-20 text-center">
+              <div class="mx-auto p-6 lg:w-1/3 lg:p-4">
+                <div class="relative mx-auto h-full w-full rounded-lg bg-opacity-40 px-8 pt-16 pb-20 text-center">
                   <img class="relative mx-auto w-60" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/6_opuxa4.png"></img>
-                  <h1 class="title-font mb-3 text-3xl font-bold text-pink-title lg:text-3xl">Study and pass the HDAO PA exam</h1>
+                  <h1 class="title-font mb-3 text-3xl font-bold text-pink-title lg:text-3xl">Study and take the PA exam</h1>
                 </div>
               </div>
-              <div class="p-6 lg:w-1/3 lg:p-4">
-                <div class="relative h-full rounded-lg bg-opacity-40 px-8 pt-16 pb-20 text-center">
+              <div class="mx-auto p-6 lg:w-1/3 lg:p-4">
+                <div class="relative mx-auto h-full w-full rounded-lg bg-opacity-40 px-8 pt-16 pb-20 text-center">
                   <img class="relative mx-auto w-60" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/7_wmvmxn.png"></img>
                   <h1 class="title-font mb-3 text-3xl font-bold text-pink-title lg:text-3xl">Log in and start completing tasks</h1>
                 </div>
               </div>
               <div class="p-6 lg:w-1/3 lg:p-4">
-                <div class="relative h-full rounded-lg bg-opacity-40 px-8 pt-16 pb-20 text-center">
+                <div class="relative mx-auto h-full w-full rounded-lg bg-opacity-40 px-8 pt-16 pb-20 text-center">
                   <img class="relative mx-auto w-60" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625419/hdao-pa/8_kb9cua.png"></img>
                   <h1 class="title-font mb-3 text-3xl font-bold text-pink-title lg:text-3xl">Earn wages weekly from completed tasks</h1>
                 </div>
@@ -263,6 +263,40 @@ export class Content extends Component {
                   </a>
                 </nav>
               </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="min-w-screen relative bg-purple-main py-16">
+          <div class="container mx-auto px-8 sm:px-12 xl:px-5">
+            <h1 class="mx-2 mt-12 font-sans text-5xl font-bold text-purple-title lg:text-6xl">Frequently Asked Questions</h1>
+            <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
+              <h3 class="text-lg font-bold text-white-lt sm:text-xl md:text-2xl">When can I start?</h3>
+              <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
+                The PA program launches in June. But you need to become a certified HDAO PA by passing our Exam. You have time to learn the material and take the Exam to enter the PA pool tart working when it launches.
+              </p>
+            </div>
+            <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
+              <h3 class="text-lg font-bold text-white-lt sm:text-xl md:text-2xl">How does it work?</h3>
+              <p class="md:text-normal mt-2 text-base text-white sm:text-lg">That is entirely up to you. This is considered gig/freelance work. So the more tasks you complete the more you will make. Payouts will be weekly.</p>
+              <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
+                There is an app you need to log into when you are available and ready to start completing tasks. Choose and accept the task(s) you will fulfill. When you accept a task it must be completed ASAP.
+              </p>
+            </div>
+            <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
+              <h3 class="text-lg font-bold text-white-lt sm:text-xl md:text-2xl">What do I need to have?</h3>
+              <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
+                Tasks can be done remotely and in a short period of time; all it requires is a working device and a stable internet connection. It would be an advantage to have prior knowledge in online productivity tools such as Google Workspace,
+                Search Engines, etc.{" "}
+              </p>
+            </div>
+            <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
+              <h3 class="text-lg font-bold text-white-lt sm:text-xl md:text-2xl">How much can I make?</h3>
+              <p class="md:text-normal mt-2 text-base text-white sm:text-lg">That is entirely up to you. This is considered gig/freelance work. So the more tasks you complete the more you will make. Payouts will be weekly.</p>
+              <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
+                We will also be rewarding PA's in both quality and quantity with a bonus every week. Those that finish in the top 40% of tasks completed and feedback score will make both bonuses. Bonuses can easily 2x the earning for those who
+                qualify.
+              </p>
             </div>
           </div>
         </section>
