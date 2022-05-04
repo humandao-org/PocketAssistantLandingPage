@@ -33,21 +33,21 @@ export class Content extends Component {
             <div class="-m-2 flex flex-wrap">
               <div class="p-6 lg:w-1/3 lg:p-4">
                 <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-16 pb-20 text-center">
-                  <img class="relative mx-auto -mt-32 w-52" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/3_mh4kih.png"></img>
+                  <img class="relative mx-auto w-52" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/3_mh4kih.png"></img>
                   <h1 class="title-font mb-3 text-2xl font-bold text-pink-title sm:text-2xl">Works on day-to-day tasks</h1>
                   <p class="mb-3 text-xl leading-tight text-white">A PA supports clients by doing day-to-day tasks in order to help them free up their time.</p>
                 </div>
               </div>
               <div class="p-6 lg:w-1/3 lg:p-4">
                 <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-16 pb-20 text-center">
-                  <img class="relative mx-auto -mt-32 w-52" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/4_or3wbg.png"></img>
+                  <img class="relative mx-auto w-52" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/4_or3wbg.png"></img>
                   <h1 class="title-font mb-3 text-2xl font-bold text-pink-title sm:text-2xl">Research and collect information</h1>
                   <p class="mb-3 text-xl leading-tight text-white">At launch an HDAO PA works on tasks specific to Data Entry and Research.</p>
                 </div>
               </div>
               <div class="p-6 lg:w-1/3 lg:p-4">
                 <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-16 pb-20 text-center">
-                  <img class="relative mx-auto -mt-32 w-52" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/5_bfllic.png"></img>
+                  <img class="relative mx-auto w-52" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/5_bfllic.png"></img>
                   <h1 class="title-font mb-3 text-2xl font-bold text-pink-title sm:text-2xl">Work remotely and flexibly</h1>
                   <p class="mb-3 text-xl leading-tight text-white">Being a PA is like doing gig work. You can select as many tasks as you want and work around your schedule.</p>
                 </div>
@@ -62,52 +62,52 @@ export class Content extends Component {
           <div class="container mx-auto px-5 pt-20 pb-16">
             <div class="-m-2 flex flex-wrap">
               <div class="p-6 lg:w-1/2 lg:p-4">
-                <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-12 pb-4 text-center">
-                  <ul class="list-disc p-4 text-justify">
-                    <li class="text-white">Research flights and hotels</li>
-                    <li class="text-white">Find leads on social media and/or job board sites</li>
-                    <li class="text-white">Call stores/businesses to get information</li>
-                    <li class="text-white">Price shop best offers for a product or service</li>
-                    <li class="text-white">Retrieve public records/addresses/contact details</li>
-                    <li class="text-white">Add accounts to a spreadsheet/CRM</li>
-                    <li class="text-white">Event planning research</li>
-                    <li class="text-white">Confirm appointments</li>
-                    <li class="text-white">Research and report the policies for this rule/law</li>
-                    <li class="text-white">Search and link to the roadmap of these 5 projects </li>
-                    <li class="text-white">Research and collect certain data points over time</li>
-                    <li class="text-white">Find and collect any data available on the internet</li>
-                    <li class="text-white">Find business or peoples email addresses or contact info</li>
-                    <li class="text-white">Find token unlock schedule for these projects</li>
-                    <li class="text-white">Find the upcoming NFT releases on Solana</li>
-                    <li class="text-white">Research transportation options</li>
-                    <li class="text-white">Find and link to Discord servers for these 10 crypto projects</li>
-                    <li class="text-white">Make a list of the upcoming spaces/talks for these 6 crypto projects</li>
-                    <li class="text-white">Go to these 3 Discord servers or Telegrams and find the answer to a question</li>
-                    <li class="text-white">Find and link me to the blogs for these 10 projects</li>
+                <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-4 pb-4 text-center">
+                  <ul class="list-disc p-4 text-left">
+                    <li class="py-2 text-white">Research flights and hotels</li>
+                    <li class="py-2 text-white">Find leads on social media and/or job board sites</li>
+                    <li class="py-2 text-white">Call stores/businesses to get information</li>
+                    <li class="py-2 text-white">Price shop best offers for a product or service</li>
+                    <li class="py-2 text-white">Retrieve public records/addresses/contact details</li>
+                    <li class="py-2 text-white">Add accounts to a spreadsheet/CRM</li>
+                    <li class="py-2 text-white">Event planning research</li>
+                    <li class="py-2 text-white">Confirm appointments</li>
+                    <li class="py-2 text-white">Research and report the policies for this rule/law</li>
+                    <li class="py-2 text-white">Search and link to the roadmap of these 5 projects </li>
+                    <li class="py-2 text-white">Research and collect certain data points over time</li>
+                    <li class="py-2 text-white">Find and collect any data available on the internet</li>
+                    <li class="py-2 text-white">Find business or peoples email addresses or contact info</li>
+                    <li class="py-2 text-white">Find token unlock schedule for these projects</li>
+                    <li class="py-2 text-white">Find the upcoming NFT releases on Solana</li>
+                    <li class="py-2 text-white">Research transportation options</li>
+                    <li class="py-2 text-white">Find and link to Discord servers for these 10 crypto projects</li>
+                    <li class="py-2 text-white">Make a list of the upcoming spaces/talks for these 6 crypto projects</li>
+                    <li class="py-2 text-white">Go to these 3 Discord servers or Telegrams and find the answer to a question</li>
+                    <li class="py-2 text-white">Find and link me to the blogs for these 10 projects</li>
                   </ul>
                 </div>
               </div>
               <div class="p-6 lg:w-1/2 lg:p-4">
-                <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-12 pb-4 text-center">
+                <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-4 pb-4 text-center">
                   <ul class="list-disc p-4 text-justify">
-                    <li class="text-white">Search and find particular images online for use</li>
-                    <li class="text-white">Transcribe audio</li>
-                    <li class="text-white">Convert analog documents to digital</li>
-                    <li class="text-white">Track data points over time</li>
-                    <li class="text-white">Create/update spreadsheets</li>
-                    <li class="text-white">Who are the investors (VCs) in xyz company</li>
-                    <li class="text-white">Transfer internet data to a digital database</li>
-                    <li class="text-white">Light bookkeeping</li>
-                    <li class="text-white">Take notes from webinar</li>
-                    <li class="text-white">Fill out online forms</li>
-                    <li class="text-white">Find and collect specific icons online</li>
-                    <li class="text-white">Verify outdated data, make changes to records</li>
-                    <li class="text-white">Create basic slide decks from content</li>
-                    <li class="text-white">Collate and file expenses</li>
-                    <li class="text-white">Simple photo and video editing</li>
-                    <li class="text-white">Document Template Creation</li>
-                    <li class="text-white">Find and list popular YouTube channels and podcasts on P2E gaming</li>
-                    <li class="text-white">Make a list of keywords people use to search for a specific product or service</li>
+                    <li class="py-2 text-white">Search and find particular images online for use</li>
+                    <li class="py-2 text-white">Transcribe audio</li>
+                    <li class="py-2 text-white">Convert analog documents to digital</li>
+                    <li class="py-2 text-white">Track data points over time</li>
+                    <li class="py-2 text-white">Create/update spreadsheets</li>
+                    <li class="py-2 text-white">Who are the investors (VCs) in xyz company</li>
+                    <li class="py-2 text-white">Transfer internet data to a digital database</li>
+                    <li class="py-2 text-white">Light bookkeeping</li>
+                    <li class="py-2 text-white">Take notes from webinar</li>
+                    <li class="py-2 text-white">Fill out online forms</li>
+                    <li class="py-2 text-white">Find and collect specific icons online</li>
+                    <li class="py-2 text-white">Verify outdated data, make changes to records</li>
+                    <li class="py-2 text-white">Create basic slide decks from content</li>
+                    <li class="py-2 text-white">Collate and file expenses</li>
+                    <li class="py-2 text-white">Simple photo and video editing</li>
+                    <li class="py-2 text-white">Document Template Creation</li>
+                    <li class="py-2 text-white">Find and list popular YouTube channels and podcasts on P2E gaming</li>
+                    <li class="py-2 text-white">Make a list of keywords people use to search for a specific product or service</li>
                   </ul>
                 </div>
               </div>
@@ -161,21 +161,21 @@ export class Content extends Component {
           <div class="container mx-auto px-5 py-24">
             <div class="-m-2 mx-4 flex flex-wrap rounded-2xl bg-purple-box/40 lg:mx-0">
               <div class="mx-auto p-6 lg:w-1/3 lg:p-4">
-                <div class="relative mx-auto h-full w-full rounded-lg bg-opacity-40 px-8 pt-16 pb-20 text-center">
+                <div class="relative mx-auto h-full w-full rounded-lg bg-opacity-40 px-8 pt-16 text-center">
                   <img class="relative mx-auto w-60" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/6_opuxa4.png"></img>
-                  <h1 class="title-font mb-3 text-3xl font-bold text-pink-title lg:text-3xl">Study and take the PA exam</h1>
+                  <h1 class="title-font mb-3 text-3xl font-bold text-pink-title lg:text-3xl">1. Study and take the PA exam</h1>
                 </div>
               </div>
               <div class="mx-auto p-6 lg:w-1/3 lg:p-4">
-                <div class="relative mx-auto h-full w-full rounded-lg bg-opacity-40 px-8 pt-16 pb-20 text-center">
+                <div class="relative mx-auto h-full w-full rounded-lg bg-opacity-40 px-8 pt-16 text-center">
                   <img class="relative mx-auto w-60" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/7_wmvmxn.png"></img>
-                  <h1 class="title-font mb-3 text-3xl font-bold text-pink-title lg:text-3xl">Log in and start completing tasks</h1>
+                  <h1 class="title-font mb-3 text-3xl font-bold text-pink-title lg:text-3xl">2. Log in and start completing tasks</h1>
                 </div>
               </div>
               <div class="p-6 lg:w-1/3 lg:p-4">
-                <div class="relative mx-auto h-full w-full rounded-lg bg-opacity-40 px-8 pt-16 pb-20 text-center">
+                <div class="relative mx-auto h-full w-full rounded-lg bg-opacity-40 px-8 pt-16 pb-16 text-center">
                   <img class="relative mx-auto w-60" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625419/hdao-pa/8_kb9cua.png"></img>
-                  <h1 class="title-font mb-3 text-3xl font-bold text-pink-title lg:text-3xl">Earn wages weekly from completed tasks</h1>
+                  <h1 class="title-font mb-3 text-3xl font-bold text-pink-title lg:text-3xl">3. Earn wages weekly from completed tasks</h1>
                 </div>
               </div>
             </div>
@@ -192,7 +192,7 @@ export class Content extends Component {
                 If you see yourself as someone who is capable of using online tools and is dedicated to work on a weekly basis, HDAO is offering you a new stream of income through the Pocket Assistant job opportunity.
               </p>
               <div class="flex md:flex-col lg:flex-row">
-                <a class="inline-flex items-center rounded-lg bg-purple-box py-4 px-5 font-bold text-white hover:bg-purple-box/80 focus:outline-none" target="_blank" href="https://forms.gle/PZGDjDBXZC8WE26CA">
+                <a class="inline-flex items-center rounded-lg bg-purple-box py-4 px-5 font-bold text-white hover:bg-purple-box/80 focus:outline-none" target="_blank" rel="noreferrer" href="https://forms.gle/PZGDjDBXZC8WE26CA">
                   Fill out form
                 </a>
               </div>
@@ -210,11 +210,11 @@ export class Content extends Component {
               <div class="w-full p-4 sm:w-1/2 lg:w-1/4">
                 <h2 class="title-font mb-4 text-center text-3xl font-bold uppercase text-purple-title sm:text-left">search</h2>
                 <nav class="-mb-1 flex flex-col items-center space-y-2.5 text-center sm:items-start sm:text-left">
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/google-search-for-beginners/overview.html" target="_blank">
+                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/google-search-for-beginners/overview.html" target="_blank" rel="noreferrer">
                     <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
                     Google Search for Beginners
                   </a>
-                  <a class="font-medium text-black hover:text-purple-title" href="https://coursebuilder.withgoogle.com/sample/course" target="_blank">
+                  <a class="font-medium text-black hover:text-purple-title" href="https://coursebuilder.withgoogle.com/sample/course" target="_blank" rel="noreferrer">
                     <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
                     Power Searching with Google
                   </a>
@@ -223,11 +223,11 @@ export class Content extends Component {
               <div class="w-full p-4 sm:w-1/2 lg:w-1/4">
                 <h2 class="title-font mb-4 text-center text-3xl font-bold uppercase text-purple-title sm:text-left">google docs</h2>
                 <nav class="-mb-1 flex flex-col items-center space-y-2.5 text-center sm:items-start sm:text-left">
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-1/overview.html" target="_blank">
+                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-1/overview.html" target="_blank" rel="noreferrer">
                     <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
                     Part 1
                   </a>
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-2/overview.html" target="_blank">
+                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-2/overview.html" target="_blank" rel="noreferrer">
                     <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
                     Part 2
                   </a>
@@ -236,28 +236,28 @@ export class Content extends Component {
               <div class="w-full p-4 sm:w-1/2 lg:w-1/4">
                 <h2 class="title-font mb-4 text-center text-3xl font-bold uppercase text-purple-title sm:text-left">google sheets</h2>
                 <nav class="-mb-1 flex flex-col items-center space-y-2.5 text-center sm:items-start sm:text-left">
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-1/overview.html" target="_blank">
+                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-1/overview.html" target="_blank" rel="noreferrer">
                     <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
                     Part 1
                   </a>
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-2/overview.html" target="_blank">
+                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-2/overview.html" target="_blank" rel="noreferrer">
                     <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
                     Part 2
                   </a>
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-3/overview.html" target="_blank">
+                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-3/overview.html" target="_blank" rel="noreferrer">
                     <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
                     Part 3
                   </a>
                 </nav>
               </div>
               <div class="w-full p-4 sm:w-1/2 lg:w-1/4">
-                <h2 class="title-font mb-4 text-center text-3xl font-bold uppercase text-purple-title sm:text-left">google sheets</h2>
+                <h2 class="title-font mb-4 text-center text-3xl font-bold uppercase text-purple-title sm:text-left">misc</h2>
                 <nav class="-mb-1 flex flex-col items-center space-y-2.5 text-center sm:items-start sm:text-left">
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-drive/overview.html" target="_blank">
+                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-drive/overview.html" target="_blank" rel="noreferrer">
                     <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
                     Google Drive
                   </a>
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/evaluate-credibility-of-online-sources/overview.html" target="_blank">
+                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/evaluate-credibility-of-online-sources/overview.html" target="_blank" rel="noreferrer">
                     <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
                     Evaluate credibility of online sources
                   </a>
