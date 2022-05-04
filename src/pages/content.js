@@ -273,7 +273,8 @@ export class Content extends Component {
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="text-lg font-bold text-white-lt sm:text-xl md:text-2xl">When can I start?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
-                The PA program launches in June 2022. But you need to become a certified HDAO PA by passing our Exam. You have time to learn the material and take the Exam to enter the PA pool tart working when it launches.
+                The PA program launches sometime in June. But you need to become a certified HDAO PA by passing our Exam. You have plenty of time to learn the material (above) and take the Exam to enter the PA pool and start working when it launches.
+                We highly recommend you complete each of the course links provided. each should only take 1-1.5 hrs but know this info will help you complete tasks quicker and with higher quality, which means more wages.
               </p>
             </div>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
@@ -282,14 +283,14 @@ export class Content extends Component {
                 There is an app you need to log into when you are available and ready to start completing tasks. Choose and accept the task(s) you will fulfill. When you accept a task it must be completed ASAP.
               </p>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
-                When finished with task, you will upload any info or data to the client and mark the task as completed. A task should not take longer than 30 min. If it does, the client will have to use another task credit for completion.
+                When finished with task, you will upload any info or data to the client and mark the task as completed. A task should not take longer than 30 min. If it does, the client will have to use another task credit for completion.{" "}
               </p>
             </div>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="text-lg font-bold text-white-lt sm:text-xl md:text-2xl">What do I need to have?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
                 Tasks can be done remotely and in a short period of time; all it requires is a working device and a stable internet connection. It would be an advantage to have prior knowledge in online productivity tools such as Google Workspace,
-                Search Engines, etc.{" "}
+                Search Engines, etc.
               </p>
             </div>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
