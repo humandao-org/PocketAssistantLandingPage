@@ -273,14 +273,16 @@ export class Content extends Component {
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="text-lg font-bold text-white-lt sm:text-xl md:text-2xl">When can I start?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
-                The PA program launches in June. But you need to become a certified HDAO PA by passing our Exam. You have time to learn the material and take the Exam to enter the PA pool tart working when it launches.
+                The PA program launches in June 2022. But you need to become a certified HDAO PA by passing our Exam. You have time to learn the material and take the Exam to enter the PA pool tart working when it launches.
               </p>
             </div>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="text-lg font-bold text-white-lt sm:text-xl md:text-2xl">How does it work?</h3>
-              <p class="md:text-normal mt-2 text-base text-white sm:text-lg">That is entirely up to you. This is considered gig/freelance work. So the more tasks you complete the more you will make. Payouts will be weekly.</p>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
                 There is an app you need to log into when you are available and ready to start completing tasks. Choose and accept the task(s) you will fulfill. When you accept a task it must be completed ASAP.
+              </p>
+              <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
+                When finished with task, you will upload any info or data to the client and mark the task as completed. A task should not take longer than 30 min. If it does, the client will have to use another task credit for completion.
               </p>
             </div>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
