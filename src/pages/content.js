@@ -17,17 +17,17 @@ export class Content extends Component {
                   </div>
                 </h1>
                 <h1 class="title-font mx-auto mb-2 text-5xl font-extrabold uppercase text-purple-title sm:text-left lg:text-8xl">Pocket Assistant</h1>
+                <p class="text-center text-2xl font-bold text-black lg:text-left lg:text-3xl">Launching June 2022</p>
               </div>
             </div>
             <div class="mt-6 w-full  rounded-lg sm:mt-0 sm:w-1/3 lg:w-1/2">
-              <img class="h-full w-full object-cover object-center" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/1_wgyom3.png" alt="stats"></img>
-              <p class="-mt-9 text-center text-2xl font-bold text-black lg:text-2xl">Launching June 2022</p>
+              <img class="h-full w-full object-cover object-center" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651671607/hdao-pa/1_fdqd59.png" alt="stats"></img>
             </div>
           </div>
         </section>
         <section class="intro body-font bg-purple-content text-gray-600">
           <div class="flex w-full flex-col text-center">
-            <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-white-lt lg:text-6xl">What does an HDAO PA do?</h1>
+            <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-white-lt lg:text-6xl">What does an hDAO PA do?</h1>
           </div>
           <div class="container mx-auto px-5 py-24">
             <div class="-m-2 flex flex-wrap">
@@ -42,7 +42,7 @@ export class Content extends Component {
                 <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-16 pb-20 text-center">
                   <img class="relative mx-auto w-52" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/4_or3wbg.png"></img>
                   <h1 class="title-font mb-3 text-2xl font-bold text-pink-title sm:text-2xl">Research and collect information</h1>
-                  <p class="mb-3 text-xl leading-tight text-white">At launch an HDAO PA works on tasks specific to Data Entry and Research.</p>
+                  <p class="mb-3 text-xl leading-tight text-white">At launch an hDAO PA works on tasks specific to Data Entry and Research.</p>
                 </div>
               </div>
               <div class="p-6 lg:w-1/3 lg:p-4">
@@ -82,8 +82,7 @@ export class Content extends Component {
                     <li class="py-2 text-white">Research transportation options</li>
                     <li class="py-2 text-white">Find and link to Discord servers for these 10 crypto projects</li>
                     <li class="py-2 text-white">Make a list of the upcoming spaces/talks for these 6 crypto projects</li>
-                    <li class="py-2 text-white">Go to these 3 Discord servers or Telegrams and find the answer to a question</li>
-                    <li class="py-2 text-white">Find and link me to the blogs for these 10 projects</li>
+                    <li class="py-2 text-white">Go to 3 Discord servers/Telegrams and find the answer to a question</li>
                   </ul>
                 </div>
               </div>
@@ -106,8 +105,9 @@ export class Content extends Component {
                     <li class="py-2 text-white">Collate and file expenses</li>
                     <li class="py-2 text-white">Simple photo and video editing</li>
                     <li class="py-2 text-white">Document Template Creation</li>
+                    <li class="py-2 text-white">Find and link me to the blogs for these 10 projects</li>
                     <li class="py-2 text-white">Find and list popular YouTube channels and podcasts on P2E gaming</li>
-                    <li class="py-2 text-white">Make a list of keywords people use to search for a specific product or service</li>
+                    <li class="py-2 text-white">Make a list of keywords to search for a specific product or service</li>
                   </ul>
                 </div>
               </div>
@@ -156,7 +156,7 @@ export class Content extends Component {
         </section>
         <section class="journey body-font bg-purple-content text-gray-600">
           <div class="flex w-full flex-col text-center">
-            <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-white-lt lg:text-6xl">Journey to becoming an HDAO PA</h1>
+            <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-white-lt lg:text-6xl">Journey to becoming an hDAO PA</h1>
           </div>
           <div class="container mx-auto px-5 py-24">
             <div class="-m-2 mx-4 flex flex-wrap rounded-2xl bg-purple-box/40 lg:mx-0">
@@ -189,7 +189,7 @@ export class Content extends Component {
             <div class="flex flex-col items-center text-center md:w-1/2 md:items-start md:pl-16 md:text-left lg:flex-grow lg:pl-24">
               <h1 class="title-font mb-4 text-4xl font-bold text-purple-title lg:text-6xl">Interested?</h1>
               <p class="mb-8 text-justify text-xl font-medium leading-relaxed text-black">
-                If you see yourself as someone who is capable of using online tools and is dedicated to work on a weekly basis, HDAO is offering you a new stream of income through the Pocket Assistant job opportunity.
+                If you see yourself as someone who is capable of using online tools and is dedicated to work on a weekly basis, hDAO is offering you a new stream of income through the Pocket Assistant job opportunity.
               </p>
               <div class="flex md:flex-col lg:flex-row">
                 <a class="inline-flex items-center rounded-lg bg-purple-box py-4 px-5 font-bold text-white hover:bg-purple-box/80 focus:outline-none" target="_blank" rel="noreferrer" href="https://forms.gle/PZGDjDBXZC8WE26CA">
@@ -200,7 +200,7 @@ export class Content extends Component {
           </div>
         </section>
         <section class="resources body-font bg-purple-main text-gray-600">
-          <div class="container mx-auto px-5 pb-52 pt-12">
+          <div class="container mx-auto px-5 pb-12 pt-12">
             <div class="mb-20 text-center">
               <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-purple-title lg:text-6xl">
                 Want to prepare for the exam? <br></br> Study these free resources.
@@ -264,16 +264,19 @@ export class Content extends Component {
                 </nav>
               </div>
             </div>
+            <div class="mx-auto w-full pt-20 lg:w-full lg:max-w-3xl">
+              <img class="rounded object-cover object-center" alt="rocket" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651672451/hdao-pa/11_ufniuj.png"></img>
+            </div>
           </div>
         </section>
 
-        <section class="min-w-screen relative bg-purple-main py-16">
+        <section class="min-w-screen relative bg-purple-main pt-4 pb-16">
           <div class="container mx-auto px-8 sm:px-12 xl:px-5">
             <h1 class="mx-2 mt-12 font-sans text-5xl font-bold text-purple-title lg:text-6xl">Frequently Asked Questions</h1>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="text-lg font-bold text-white-lt sm:text-xl md:text-2xl">When can I start?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
-                The PA program launches sometime in June. But you need to become a certified HDAO PA by passing our Exam. You have plenty of time to learn the material (above) and take the Exam to enter the PA pool and start working when it launches.
+                The PA program launches sometime in June. But you need to become a certified hDAO PA by passing our Exam. You have plenty of time to learn the material (above) and take the Exam to enter the PA pool and start working when it launches.
                 We highly recommend you complete each of the course links provided. Each link should only take 1-1.5 hrs but know this info will help you complete tasks quicker and with higher quality, which means more wages.
               </p>
             </div>
