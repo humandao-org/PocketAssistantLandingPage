@@ -55,7 +55,7 @@ export class Content extends Component {
             </div>
           </div>
         </section>
-        <section class="intro body-font bg-purple-content text-gray-600">
+        <section class="tasks body-font bg-purple-content text-gray-600">
           <div class="flex w-full flex-col text-center">
             <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-white-lt lg:text-6xl">Type of Tasks</h1>
           </div>
@@ -114,6 +114,46 @@ export class Content extends Component {
             </div>
           </div>
         </section>
+        <section class="qualities bg-purple-content py-20">
+          <div class="container mx-auto max-w-6xl items-center px-10 sm:px-20 md:px-32 lg:px-16">
+            <div class="-mx-3 flex flex-wrap items-center">
+              <h1 class="mx-8 mt-12 font-sans text-5xl font-bold text-white-lt lg:text-6xl">What qualities should you have?</h1>
+              <div class="lg:order-0 order-1 mx-auto w-full px-3 lg:w-1/2">
+                <div class="w-full lg:max-w-md">
+                  <ul class="">
+                    <li class="flex space-x-4 py-2 xl:py-3">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                      </svg>
+                      <span class="text-left text-sm font-medium text-white lg:text-2xl">Good Verbal Communication</span>
+                    </li>
+                    <li class="flex items-center space-x-4 py-2 xl:py-3">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                      </svg>
+                      <span class="text-left text-sm font-medium text-white lg:text-2xl">Well-rounded Interpersonal Skills</span>
+                    </li>
+                    <li class="flex items-center space-x-4 py-2 xl:py-3">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                      </svg>
+                      <span class="text-left text-sm font-medium text-white lg:text-2xl">Demonstrated organizational skills</span>
+                    </li>
+                    <li class="flex items-center space-x-4 py-2 xl:py-3">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                      </svg>
+                      <span class="text-left text-sm font-medium text-white lg:text-2xl">Proficiency in online tools</span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="order-0 mb-6 w-full px-3 lg:order-1 lg:mb-0 lg:w-1/2">
+                <img class="mx-auto sm:max-w-sm lg:max-w-full" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651659483/hdao-pa/10_bathn4.png" alt="feature image"></img>
+              </div>
+            </div>
+          </div>
+        </section>
         <section class="journey body-font bg-purple-content text-gray-600">
           <div class="flex w-full flex-col text-center">
             <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-white-lt lg:text-6xl">Journey to becoming an HDAO PA</h1>
@@ -159,7 +199,7 @@ export class Content extends Component {
             </div>
           </div>
         </section>
-        <section class="body-font bg-purple-main text-gray-600">
+        <section class="resources body-font bg-purple-main text-gray-600">
           <div class="container mx-auto px-5 pb-52 pt-12">
             <div class="mb-20 text-center">
               <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-purple-title lg:text-6xl">
