@@ -7,7 +7,7 @@ export class Content extends Component {
         <section class="hero body-font bg-purple-main text-gray-600">
           <div class="container mx-auto flex flex-wrap px-5 py-32">
             <div class="-mx-4 mt-auto mb-auto flex flex-wrap content-start sm:w-2/3 sm:pr-10 lg:w-1/2">
-              <div class="mb-6 w-full px-4 sm:p-4 lg:text-left">
+              <div class="mb-6 w-full px-4 sm:p-4 md:px-12 lg:text-left">
                 <h1 class="title-font mb-2 text-xl font-medium text-purple-box lg:text-4xl">
                   <div class="mx-auto text-center">
                     <span class="logo mx-auto sm:flex lg:flex-row lg:text-left">
@@ -121,35 +121,35 @@ export class Content extends Component {
               <div class="lg:order-0 order-1 mx-auto w-full px-3 lg:w-1/2">
                 <div class="w-full lg:max-w-md">
                   <ul class="">
-                    <li class="flex space-x-4 py-2 xl:py-3">
-                      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <li class="mx-auto inline-flex items-center space-x-4 py-2 lg:text-left xl:py-4">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white md:h-12 md:w-12" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                       </svg>
-                      <span class="text-left text-sm font-medium text-white lg:text-2xl">Good Verbal Communication</span>
+                      <span class="text-md text-left  font-medium text-white md:text-2xl">Familiarity with English language</span>
                     </li>
-                    <li class="flex items-center space-x-4 py-2 xl:py-3">
-                      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <li class="inline-flex items-center space-x-4 py-2 xl:py-3">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white md:h-12 md:w-12" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                       </svg>
-                      <span class="text-left text-sm font-medium text-white lg:text-2xl">Well-rounded Interpersonal Skills</span>
+                      <span class=" text-md font-medium text-white md:text-2xl">Well-rounded Interpersonal skills</span>
                     </li>
-                    <li class="flex items-center space-x-4 py-2 xl:py-3">
-                      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <li class="inline-flex items-center space-x-4 py-2 xl:py-3">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white md:h-12 md:w-12" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                       </svg>
-                      <span class="text-left text-sm font-medium text-white lg:text-2xl">Demonstrated organizational skills</span>
+                      <span class=" text-md font-medium text-white md:text-2xl">Flexibility and organizational skill</span>
                     </li>
-                    <li class="flex items-center space-x-4 py-2 xl:py-3">
-                      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <li class="inline-flex items-center space-x-4 py-2 xl:py-3">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white md:h-12 md:w-12" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                       </svg>
-                      <span class="text-left text-sm font-medium text-white lg:text-2xl">Proficiency in online tools</span>
+                      <span class="text-md text-left font-medium text-white md:text-2xl">Familiarity with productivity tools</span>
                     </li>
                   </ul>
                 </div>
               </div>
               <div class="order-0 mb-6 w-full px-3 lg:order-1 lg:mb-0 lg:w-1/2">
-                <img class="mx-auto sm:max-w-sm lg:max-w-full" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651659483/hdao-pa/10_bathn4.png" alt="feature image"></img>
+                <img class="mx-auto sm:max-w-sm lg:max-w-xl" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651659483/hdao-pa/10_bathn4.png" alt="feature image"></img>
               </div>
             </div>
           </div>
