@@ -156,7 +156,7 @@ export class Content extends Component {
         </section>
         <section class="journey body-font bg-purple-content text-gray-600">
           <div class="flex w-full flex-col text-center">
-            <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-white-lt lg:text-6xl">Journey to becoming an hDAO PA</h1>
+            <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-white-lt lg:text-6xl">Journey to Earning</h1>
           </div>
           <div class="container mx-auto px-5 py-24">
             <div class="-m-2 mx-4 flex flex-wrap rounded-2xl bg-purple-box/40 lg:mx-0">
