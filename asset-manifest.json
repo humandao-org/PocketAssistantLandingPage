@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hdao-nft/static/css/main.3ceb0ddf.css",
-    "main.js": "/hdao-nft/static/js/main.9fd0c69e.js",
+    "main.css": "/hdao-nft/static/css/main.979dac3f.css",
+    "main.js": "/hdao-nft/static/js/main.01c083e6.js",
     "static/js/787.5cab0ca8.chunk.js": "/hdao-nft/static/js/787.5cab0ca8.chunk.js",
     "index.html": "/hdao-nft/index.html",
-    "main.3ceb0ddf.css.map": "/hdao-nft/static/css/main.3ceb0ddf.css.map",
-    "main.9fd0c69e.js.map": "/hdao-nft/static/js/main.9fd0c69e.js.map",
+    "main.979dac3f.css.map": "/hdao-nft/static/css/main.979dac3f.css.map",
+    "main.01c083e6.js.map": "/hdao-nft/static/js/main.01c083e6.js.map",
     "787.5cab0ca8.chunk.js.map": "/hdao-nft/static/js/787.5cab0ca8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ceb0ddf.css",
-    "static/js/main.9fd0c69e.js"
+    "static/css/main.979dac3f.css",
+    "static/js/main.01c083e6.js"
   ]
 }
