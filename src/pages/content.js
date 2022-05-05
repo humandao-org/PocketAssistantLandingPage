@@ -182,7 +182,7 @@ export class Content extends Component {
           </div>
         </section>
         <section class="form body-font bg-purple-main text-gray-600">
-          <div class="container mx-auto flex flex-col items-center p-12 px-12 py-24 md:flex-row">
+          <div class="container mx-auto flex flex-col items-center p-12 px-12 py-32 md:flex-row">
             <div class="mb-10 w-5/6 md:mb-0 md:w-1/2 lg:w-full lg:max-w-lg">
               <img class="rounded object-cover object-center" alt="rocket" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625419/hdao-pa/9_l0smjf.png"></img>
             </div>
@@ -190,6 +190,9 @@ export class Content extends Component {
               <h1 class="title-font mb-4 text-4xl font-bold text-purple-title lg:text-6xl">Interested?</h1>
               <p class="mb-8 text-justify text-xl font-medium leading-relaxed text-black">
                 If you see yourself as someone who is capable of using online tools and is dedicated to work on a weekly basis, hDAO is offering you a new stream of income through the Pocket Assistant job opportunity.
+              </p>
+              <p class="mb-8 text-justify text-xl font-medium leading-relaxed text-black">
+                Don't have the skills required for PA role? No worries, we provided the learning material below to help you. Anyone can use these resources, learn these tools, platforms and join the PA program.{" "}
               </p>
               <div class="flex md:flex-col lg:flex-row">
                 <a class="inline-flex items-center rounded-lg bg-purple-box py-4 px-5 font-bold text-white hover:bg-purple-box/80 focus:outline-none" target="_blank" rel="noreferrer" href="https://forms.gle/PZGDjDBXZC8WE26CA">
@@ -274,14 +277,15 @@ export class Content extends Component {
           <div class="container mx-auto px-8 sm:px-12 xl:px-5">
             <h1 class="mx-2 mt-12 font-sans text-5xl font-bold text-purple-title lg:text-6xl">Frequently Asked Questions</h1>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
-              <h3 class="text-lg font-bold text-white-lt sm:text-xl md:text-2xl">When can I start?</h3>
+              <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">When can I start?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
                 The PA program launches sometime in June. But you need to become a certified hDAO PA by passing our Exam. You have plenty of time to learn the material (above) and take the Exam to enter the PA pool and start working when it launches.
                 We highly recommend you complete each of the course links provided. Each link should only take 1-1.5 hrs but knowing this info will help you complete tasks quicker and with higher quality, which means more wages.
               </p>
+              <p class="md:text-normal mt-6 text-base text-white sm:text-lg">Also, please tell your family and friends. They can all benefit and earn as a PA as these skills can be learned within a week.</p>
             </div>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
-              <h3 class="text-lg font-bold text-white-lt sm:text-xl md:text-2xl">How does it work?</h3>
+              <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">How does it work?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
                 There is an app you need to log into when you are available and ready to start completing tasks. Choose and accept the task(s) you will fulfill. When you accept a task it must be completed ASAP.
               </p>
@@ -290,14 +294,14 @@ export class Content extends Component {
               </p>
             </div>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
-              <h3 class="text-lg font-bold text-white-lt sm:text-xl md:text-2xl">What do I need to have?</h3>
+              <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">What do I need to have?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
-                Tasks can be done remotely and in a short period of time; all it requires is a working device and a stable internet connection. It would be an advantage to have prior knowledge in online productivity tools such as Google Workspace,
+                Tasks can be done remotely and in a short period of time; all it 3equires is a working device and a stable internet connection. It would be an advantage to have prior knowledge in online productivity tools such as Google Workspace,
                 Search Engines, etc.
               </p>
             </div>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
-              <h3 class="text-lg font-bold text-white-lt sm:text-xl md:text-2xl">How much can I make?</h3>
+              <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">How much can I make?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
                 That is entirely up to you. This is considered gig/freelance work. So the more tasks you complete the more you will make. Payouts will be weekly. We will also be rewarding PA's in both quality and quantity with a bonus every week.
                 Those that finish in the top 40% of tasks completed and feedback score will make both bonuses. Bonuses can easily 2x the earning for those who qualify.{" "}
