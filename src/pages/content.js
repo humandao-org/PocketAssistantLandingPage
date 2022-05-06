@@ -8,7 +8,7 @@ export class Content extends Component {
           <div class="container mx-auto flex flex-wrap px-5 py-32">
             <div class="-mx-4 mt-auto mb-auto flex flex-wrap content-start sm:w-2/3 sm:pr-10 lg:w-1/2">
               <div class="mb-6 w-full px-4 sm:p-4 md:px-12 lg:text-left">
-                <h1 class="title-font mb-2 text-xl font-medium text-purple-box lg:text-4xl">
+                <h1 class="title-font mb-2 text-xl font-medium text-purple-box/80 lg:text-4xl">
                   <div class="mx-auto text-center">
                     <span class="logo mx-auto sm:flex lg:flex-row lg:text-left">
                       <img class="inline w-8" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651646990/hdao-pa/HDAO-Transparent_wie419.png"></img>
@@ -189,10 +189,8 @@ export class Content extends Component {
             <div class="flex flex-col items-center text-center md:w-1/2 md:items-start md:pl-16 md:text-left lg:flex-grow lg:pl-24">
               <h1 class="title-font mb-4 text-4xl font-bold text-purple-title lg:text-6xl">Interested?</h1>
               <p class="mb-8 text-justify text-xl font-medium leading-relaxed text-black">
-                If you see yourself as someone who is capable of using online tools and is dedicated to work on a weekly basis, hDAO is offering you a new stream of income through the Pocket Assistant job opportunity.
-              </p>
-              <p class="mb-8 text-justify text-xl font-medium leading-relaxed text-black">
-                Don't have the skills required for PA role? No worries, we provided the learning material below to help you. Anyone can use these resources, learn these tools, platforms and join the PA program.{" "}
+                If you are someone who is able to use online tools and is willing to work on a weekly basis, hDAO has a new way for you to make money through the Pocket Assistant opportunity. If you don't have the skills required for the PA role,
+                don't worry. We have provided learning materials below so that you can learn these tools and platforms and join the PA program.
               </p>
               <div class="flex md:flex-col lg:flex-row">
                 <a class="inline-flex items-center rounded-lg bg-purple-box py-4 px-5 font-bold text-white hover:bg-purple-box/80 focus:outline-none" target="_blank" rel="noreferrer" href="https://forms.gle/PZGDjDBXZC8WE26CA">
