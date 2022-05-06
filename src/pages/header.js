@@ -8,7 +8,7 @@ export class Header extends Component {
           <div class="container mx-auto flex flex-col flex-wrap items-center p-5 md:flex-row">
             <a class="title-font mb-4 flex items-center font-medium text-gray-900 md:mb-0">
               <img class="h-10 w-10" src="https://secureservercdn.net/198.71.233.86/cb6.757.myftpupload.com/wp-content/uploads/2021/12/HDAO-60x60-72dpi-1.svg?time=1651670863"></img>
-              <span class="ml-3 text-xl">humanDAO</span>
+              <span class="ml-1 text-xl">humanDAO</span>
             </a>
             <nav class="flex flex-wrap items-center justify-center text-base md:ml-auto">
               <a class="mr-5 font-bold text-black hover:text-black/80" target="_blank" rel="noreferrer" href="https://humandao.org/">

@@ -17,7 +17,7 @@ export class Content extends Component {
                   </div>
                 </h1>
                 <h1 class="title-font mx-auto mb-2 text-5xl font-extrabold uppercase text-purple-title sm:text-left lg:text-8xl">Pocket Assistant</h1>
-                <p class="text-center text-2xl font-bold text-black lg:text-left lg:text-3xl">Launching June 2022</p>
+                <p class="text-2xl font-bold text-black sm:text-left lg:text-left lg:text-3xl">Launching June 2022</p>
               </div>
             </div>
             <div class="mt-6 w-full  rounded-lg sm:mt-0 sm:w-1/3 lg:w-1/2">
