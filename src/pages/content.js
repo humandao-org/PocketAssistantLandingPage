@@ -17,7 +17,7 @@ export class Content extends Component {
                   </div>
                 </h1>
                 <h1 class="title-font mx-auto mb-2 text-5xl font-extrabold uppercase text-purple-title sm:text-left lg:text-8xl">Pocket Assistant</h1>
-                <p class="text-2xl font-bold text-black sm:text-left lg:text-left lg:text-3xl">Launching June 2022</p>
+                <p class="text-2xl font-bold text-black sm:text-left lg:text-left lg:text-3xl">Launching June/July</p>
               </div>
             </div>
             <div class="mt-6 w-full  rounded-lg sm:mt-0 sm:w-1/3 lg:w-1/2">
@@ -57,10 +57,10 @@ export class Content extends Component {
         </section>
         <section class="tasks body-font bg-purple-content text-gray-600">
           <div class="flex w-full flex-col text-center">
-            <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-white-lt lg:text-6xl">Type of Tasks</h1>
+            <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-white-lt lg:text-6xl">Types of Tasks</h1>
           </div>
           <div class="container mx-auto px-5 pt-20 pb-16">
-            <div class="-m-2 flex flex-wrap">
+            <div class="-m-2 lg:flex lg:flex-wrap">
               <div class="p-6 lg:w-1/2 lg:p-4">
                 <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-4 pb-4 text-center">
                   <ul class="list-disc p-4 text-left">
@@ -148,8 +148,8 @@ export class Content extends Component {
                   </ul>
                 </div>
               </div>
-              <div class="order-0 mb-6 w-full px-3 lg:order-1 lg:mb-0 lg:w-1/2">
-                <img class="mx-auto sm:max-w-sm lg:max-w-xl" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651659483/hdao-pa/10_bathn4.png" alt="feature image"></img>
+              <div class="order-0 mx-auto mb-6 px-3 md:w-1/2 lg:order-1 lg:w-1/2">
+                <img class="mx-auto" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651659483/hdao-pa/10_bathn4.png" alt="feature image"></img>
               </div>
             </div>
           </div>
@@ -193,8 +193,16 @@ export class Content extends Component {
                 don't worry. We have provided learning materials below so that you can learn these tools and platforms and join the PA program.
               </p>
               <div class="flex md:flex-col lg:flex-row">
-                <a class="inline-flex items-center rounded-lg bg-purple-box py-4 px-5 font-bold text-white hover:bg-purple-box/80 focus:outline-none" target="_blank" rel="noreferrer" href="https://forms.gle/PZGDjDBXZC8WE26CA">
+                <a class="mr-4 inline-flex items-center rounded-lg bg-purple-box py-4 px-5 font-bold text-white hover:bg-purple-box/80 focus:outline-none" target="_blank" rel="noreferrer" href="https://forms.gle/PZGDjDBXZC8WE26CA">
                   Fill out form
+                </a>
+                <a
+                  class="hover:bg- inline-flex items-center rounded-lg bg-gray-100 py-4 px-5 font-bold text-purple-title hover:text-purple-900 focus:outline-none"
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://drive.google.com/file/d/1cqSKp6CSS5oCwPw4cZKOQkEswIkQXrwG/view?usp=sharing"
+                >
+                  Learn research skills
                 </a>
               </div>
             </div>
