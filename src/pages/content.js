@@ -194,7 +194,7 @@ export class Content extends Component {
               </p>
               <div class="flex md:flex-col lg:flex-row">
                 <a class="mr-4 inline-flex items-center rounded-lg bg-purple-box py-4 px-5 font-bold text-white hover:bg-purple-box/80 focus:outline-none" target="_blank" rel="noreferrer" href="https://forms.gle/PZGDjDBXZC8WE26CA">
-                  Fill out form
+                  Become a PA
                 </a>
                 <a
                   class="hover:bg- inline-flex items-center rounded-lg bg-gray-100 py-4 px-5 font-bold text-purple-title hover:text-purple-900 focus:outline-none"
