@@ -326,7 +326,7 @@ export class Content extends Component {
             <div class="mx-auto flex flex-col items-start sm:flex-row sm:items-center lg:w-2/3">
               <h1 class="title-font mx-auto flex-grow pb-4 text-2xl font-medium text-gray-900 sm:pr-12 lg:pb-0 lg:text-left">Ready to start your journey to earning?</h1>
               <a class="mx-auto items-center rounded-lg bg-purple-box py-4 px-5 font-bold text-white hover:bg-purple-box/80 focus:outline-none lg:inline-flex" target="_blank" rel="noreferrer" href="https://forms.gle/PZGDjDBXZC8WE26CA">
-                Fill out form
+                Become a PA
               </a>
             </div>
           </div>
