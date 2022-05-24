@@ -103,7 +103,6 @@ export class Content extends Component {
                     <li class="py-2 text-white">Verify outdated data, make changes to records</li>
                     <li class="py-2 text-white">Create basic slide decks from content</li>
                     <li class="py-2 text-white">Collate and file expenses</li>
-                    <li class="py-2 text-white">Simple photo and video editing</li>
                     <li class="py-2 text-white">Document Template Creation</li>
                     <li class="py-2 text-white">Find and link me to the blogs for these 10 projects</li>
                     <li class="py-2 text-white">Find and list popular YouTube channels and podcasts on P2E gaming</li>
