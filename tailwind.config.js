@@ -2,6 +2,10 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
+      fontFamily: {
+        play: ["Play", " sans-serif"],
+        bungee: ["Bungee", "cursive"],
+      },
       colors: {
         "purple-main": "#e8e2ff",
         "purple-content": "#6f5acd",

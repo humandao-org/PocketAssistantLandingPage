@@ -8,15 +8,9 @@ export class Content extends Component {
           <div class="container mx-auto flex flex-wrap px-5 py-32">
             <div class="-mx-4 mt-auto mb-auto flex flex-wrap content-start sm:w-2/3 sm:pr-10 lg:w-1/2">
               <div class="mb-6 w-full px-4 sm:p-4 md:px-12 lg:text-left">
-                <h1 class="title-font mb-2 text-xl font-medium text-purple-box/80 lg:text-4xl">
-                  <div class="mx-auto text-center">
-                    <span class="logo mx-auto sm:flex lg:flex-row lg:text-left">
-                      <img class="inline w-8" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651646990/hdao-pa/HDAO-Transparent_wie419.png"></img>
-                      humanDAO
-                    </span>
-                  </div>
+                <h1 style={{ textShadow: "2px 4px white" }} class="title-font mx-auto mb-2 font-play text-5xl font-extrabold uppercase text-[#dd5b87] sm:text-left lg:text-7xl">
+                  Pocket Assistant
                 </h1>
-                <h1 class="title-font mx-auto mb-2 text-5xl font-extrabold uppercase text-purple-title sm:text-left lg:text-8xl">Pocket Assistant</h1>
                 <p class="text-2xl font-bold text-black sm:text-left lg:text-left lg:text-3xl">Launching July</p>
               </div>
             </div>
@@ -27,7 +21,9 @@ export class Content extends Component {
         </section>
         <section class="intro body-font bg-purple-content text-gray-600">
           <div class="flex w-full flex-col text-center">
-            <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-white-lt lg:text-6xl">What does an hDAO PA do?</h1>
+            <h1 style={{ textShadow: "2px 2px black" }} class="mx-8 mt-20 font-play text-5xl uppercase text-white-lt lg:text-6xl">
+              What does an hDAO PA do?
+            </h1>
           </div>
           <div class="container mx-auto px-5 py-24">
             <div class="-m-2 flex flex-wrap">
@@ -57,7 +53,9 @@ export class Content extends Component {
         </section>
         <section class="tasks body-font bg-purple-content text-gray-600">
           <div class="flex w-full flex-col text-center">
-            <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-white-lt lg:text-6xl">Types of Tasks</h1>
+            <h1 style={{ textShadow: "2px 2px black" }} class="mx-8 mt-20 font-play text-5xl uppercase  text-white-lt lg:text-6xl">
+              Types of Tasks
+            </h1>
           </div>
           <div class="container mx-auto px-5 pt-20 pb-16">
             <div class="-m-2 lg:flex lg:flex-wrap">
@@ -74,7 +72,6 @@ export class Content extends Component {
                     <li class="py-2 text-white">Confirm appointments</li>
                     <li class="py-2 text-white">Research and report the policies for this rule/law</li>
                     <li class="py-2 text-white">Search and link to the roadmap of these 5 projects </li>
-                    <li class="py-2 text-white">Research and collect certain data points over time</li>
                     <li class="py-2 text-white">Find and collect any data available on the internet</li>
                     <li class="py-2 text-white">Find business or peoples email addresses or contact info</li>
                     <li class="py-2 text-white">Find token unlock schedule for these projects</li>
@@ -107,6 +104,7 @@ export class Content extends Component {
                     <li class="py-2 text-white">Find and link me to the blogs for these 10 projects</li>
                     <li class="py-2 text-white">Find and list popular YouTube channels and podcasts on P2E gaming</li>
                     <li class="py-2 text-white">Make a list of keywords to search for a specific product or service</li>
+                    <li class="py-2 text-white">Research and collect certain data points over time</li>
                   </ul>
                 </div>
               </div>
@@ -114,9 +112,11 @@ export class Content extends Component {
           </div>
         </section>
         <section class="qualities bg-purple-content py-20">
-          <div class="container mx-auto max-w-6xl items-center px-10 sm:px-20 md:px-32 lg:px-16">
+          <div class="container mx-auto max-w-6xl items-center px-10 sm:px-20 md:px-32 lg:px-4">
             <div class="-mx-3 flex flex-wrap items-center">
-              <h1 class="mx-2 mt-12 font-sans text-5xl font-bold text-white-lt lg:text-6xl">What qualities should you have?</h1>
+              <h1 style={{ textShadow: "2px 2px black" }} class="mt-12 font-play text-5xl uppercase text-white-lt lg:text-6xl">
+                What qualities should you have?
+              </h1>
               <div class="lg:order-0 order-1 mx-auto w-full px-3 lg:w-1/2">
                 <div class="w-full lg:max-w-md">
                   <ul class="">
@@ -155,7 +155,9 @@ export class Content extends Component {
         </section>
         <section class="journey body-font bg-purple-content text-gray-600">
           <div class="flex w-full flex-col text-center">
-            <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-white-lt lg:text-6xl">Journey to Earning</h1>
+            <h1 style={{ textShadow: "2px 2px black" }} class="mx-8 mt-20 font-play text-5xl uppercase text-white-lt lg:text-6xl">
+              Journey to Earning
+            </h1>
           </div>
           <div class="container mx-auto px-5 py-24">
             <div class="-m-2 mx-4 flex flex-wrap rounded-2xl bg-purple-box/40 lg:mx-0">
@@ -186,35 +188,37 @@ export class Content extends Component {
               <img class="rounded object-cover object-center" alt="rocket" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625419/hdao-pa/9_l0smjf.png"></img>
             </div>
             <div class="flex flex-col items-center text-center md:w-1/2 md:items-start md:pl-16 md:text-left lg:flex-grow lg:pl-24">
-              <h1 class="title-font mb-4 text-4xl font-bold text-purple-title lg:text-6xl">Interested?</h1>
+              <h1 style={{ textShadow: "2px 4px white" }} class="mb-4 font-play text-4xl uppercase text-[#dd5b87] lg:text-6xl">
+                Interested?
+              </h1>
               <p class="mb-8 text-justify text-xl font-medium leading-relaxed text-black">
                 If you are someone who is able to use online tools and is willing to work on a weekly basis, hDAO has a new way for you to make money through the Pocket Assistant opportunity. If you don't have the skills required for the PA role,
                 don't worry. We have provided learning materials below so that you can learn these tools and platforms and join the PA program.
               </p>
-              <div class="flex md:flex-col lg:flex-row">
-                <a class="mr-4 inline-flex items-center rounded-lg bg-purple-box py-4 px-5 font-bold text-white hover:bg-purple-box/80 focus:outline-none" target="_blank" rel="noreferrer" href="https://forms.gle/PZGDjDBXZC8WE26CA">
-                  Become a PA
+              <div class="mx-auto flex flex-col space-y-4 lg:flex-row lg:space-y-0 lg:space-x-4">
+                <a class="inline-flex items-center rounded-lg bg-purple-box px-4 py-4 font-bold text-white hover:bg-purple-box/80 focus:outline-none" target="_blank" rel="noreferrer" href="https://forms.gle/PZGDjDBXZC8WE26CA">
+                  <span className="mx-auto">Become a PA</span>
                 </a>
                 <a
-                  class="hover:bg- inline-flex items-center rounded-lg bg-gray-100 py-4 px-5 font-bold text-purple-title hover:text-purple-900 focus:outline-none"
+                  class="hover:bg- inline-flex items-center rounded-lg bg-gray-100 px-4 py-4 font-bold text-purple-title hover:text-purple-900 focus:outline-none"
                   target="_blank"
                   rel="noreferrer"
                   href="https://drive.google.com/file/d/1cqSKp6CSS5oCwPw4cZKOQkEswIkQXrwG/view?usp=sharing"
                 >
-                  Learn research skills
+                  <span className="mx-auto">Learn Research Skills</span>
                 </a>
               </div>
             </div>
           </div>
         </section>
         <section class="resources body-font bg-purple-main text-gray-600">
-          <div class="container mx-auto px-5 pb-12 pt-12">
+          <div class="container mx-auto px-5 pb-12 pt-4">
             <div class="mb-20 text-center">
-              <h1 class="mx-8 mt-20 font-sans text-5xl font-bold text-purple-title lg:text-6xl">
-                Want to prepare for the exam? <br></br> Study these free resources.
+              <h1 style={{ textShadow: "2px 4px white" }} class="mx-4 mt-4 font-play text-4xl uppercase text-[#dd5b87] lg:text-6xl">
+                Not prepared yet? <br></br> Study these free resources.
               </h1>
             </div>
-            <div class="-m-4 flex flex-wrap">
+            <div class="-m-4 flex flex-wrap px-12">
               <div class="w-full p-4 sm:w-1/2 lg:w-1/4">
                 <h2 class="title-font mb-4 text-center text-3xl font-bold uppercase text-purple-title sm:text-left">search</h2>
                 <nav class="-mb-1 flex flex-col items-center space-y-2.5 text-center sm:items-start sm:text-left">
@@ -269,6 +273,10 @@ export class Content extends Component {
                     <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
                     Evaluate credibility of online sources
                   </a>
+                  <a class="font-medium text-black hover:text-purple-title" href="https://www.grammarly.com/blog/how-does-grammarly-work/" target="_blank" rel="noreferrer">
+                    <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
+                    How to use grammarly
+                  </a>
                 </nav>
               </div>
             </div>
@@ -280,7 +288,9 @@ export class Content extends Component {
 
         <section class="min-w-screen relative bg-purple-main pt-4 pb-16">
           <div class="container mx-auto px-8 sm:px-12 xl:px-5">
-            <h1 class="mx-2 mt-12 font-sans text-5xl font-bold text-purple-title lg:text-6xl">Frequently Asked Questions</h1>
+            <h1 style={{ textShadow: "2px 4px white" }} class="mx-2 mt-12 font-play text-5xl uppercase text-[#dd5b87] lg:text-6xl">
+              Frequently Asked Questions
+            </h1>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">When can I start?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
