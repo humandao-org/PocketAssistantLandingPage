@@ -188,14 +188,14 @@ export class Content extends Component {
               <img class="rounded object-cover object-center" alt="rocket" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625419/hdao-pa/9_l0smjf.png"></img>
             </div>
             <div class="flex flex-col items-center text-center md:w-1/2 md:items-start md:pl-16 md:text-left lg:flex-grow lg:pl-24">
-              <h1 style={{ textShadow: "2px 4px white" }} class="mb-4 font-play text-4xl uppercase text-[#dd5b87] lg:text-6xl">
+              <h1 style={{ textShadow: "2px 3px white" }} class="mb-4 font-play text-4xl uppercase text-[#dd5b87] lg:text-6xl">
                 Interested?
               </h1>
               <p class="mb-8 text-justify text-xl font-medium leading-relaxed text-black">
                 If you are someone who is able to use online tools and is willing to work on a weekly basis, hDAO has a new way for you to make money through the Pocket Assistant opportunity. If you don't have the skills required for the PA role,
                 don't worry. We have provided learning materials below so that you can learn these tools and platforms and join the PA program.
               </p>
-              <div class="mx-auto flex flex-col space-y-4 lg:flex-row lg:space-y-0 lg:space-x-4">
+              <div class="mx-auto flex flex-col space-y-4 lg:mx-0 lg:flex-row lg:space-y-0 lg:space-x-4">
                 <a class="inline-flex items-center rounded-lg bg-purple-box px-4 py-4 font-bold text-white hover:bg-purple-box/80 focus:outline-none" target="_blank" rel="noreferrer" href="https://forms.gle/PZGDjDBXZC8WE26CA">
                   <span className="mx-auto">Become a PA</span>
                 </a>
@@ -214,8 +214,8 @@ export class Content extends Component {
         <section class="resources body-font bg-purple-main text-gray-600">
           <div class="container mx-auto px-5 pb-12 pt-4">
             <div class="mb-20 text-center">
-              <h1 style={{ textShadow: "2px 4px white" }} class="mx-4 mt-4 font-play text-4xl uppercase text-[#dd5b87] lg:text-6xl">
-                Not prepared yet? <br></br> Study these free resources.
+              <h1 style={{ textShadow: "2px 3px white" }} class="mt-4 font-play text-4xl uppercase text-[#dd5b87] lg:text-6xl">
+                Need to prepare? <br></br> Study these free resources.
               </h1>
             </div>
             <div class="-m-4 flex flex-wrap px-12">
@@ -286,15 +286,15 @@ export class Content extends Component {
           </div>
         </section>
 
-        <section class="min-w-screen relative bg-purple-main pt-4 pb-16">
-          <div class="container mx-auto px-8 sm:px-12 xl:px-5">
-            <h1 style={{ textShadow: "2px 4px white" }} class="mx-2 mt-12 font-play text-5xl uppercase text-[#dd5b87] lg:text-6xl">
+        <section class="relative bg-purple-main px-8 pt-4 pb-16">
+          <div class="container mx-auto xl:px-5">
+            <h1 style={{ textShadow: "2px 4px white" }} class="mt-12 font-play text-4xl uppercase text-[#dd5b87] lg:text-6xl">
               Frequently Asked Questions
             </h1>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">When can I start?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
-                The PA program launches sometime in June. But you need to become a certified hDAO PA by passing our Exam. You have plenty of time to learn the material (above) and take the Exam to enter the PA pool and start working when it launches.
+                The PA program launches sometime in July. But you need to become a certified hDAO PA by passing our Exam. You have plenty of time to learn the material (above) and take the Exam to enter the PA pool and start working when it launches.
                 We highly recommend you complete each of the course links provided. Each link should only take 1-1.5 hrs but knowing this info will help you complete tasks quicker and with higher quality, which means more wages.
               </p>
               <p class="md:text-normal mt-6 text-base text-white sm:text-lg">Also, please tell your family and friends. They can all benefit and earn as a PA as these skills can be learned within a week.</p>
