@@ -27,7 +27,7 @@ export class Content extends Component {
           </div>
           <div class="container mx-auto px-5 py-24">
             <div class="-m-2 flex flex-wrap">
-              <div class="p-6 lg:w-1/3 lg:p-4">
+              <div class="p-6 duration-300 ease-in hover:-translate-y-8 lg:w-1/3 lg:p-4">
                 <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-16 pb-20 text-center">
                   <img class="relative mx-auto w-52" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/3_mh4kih.png"></img>
                   <h1 class="title-font mb-3 text-2xl font-bold text-pink-title sm:text-2xl">Works on day-to-day tasks</h1>
@@ -35,14 +35,14 @@ export class Content extends Component {
                 </div>
               </div>
               <div class="p-6 lg:w-1/3 lg:p-4">
-                <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-16 pb-20 text-center">
+                <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-16 pb-20 text-center duration-300 ease-in hover:-translate-y-8">
                   <img class="relative mx-auto w-52" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/4_or3wbg.png"></img>
                   <h1 class="title-font mb-3 text-2xl font-bold text-pink-title sm:text-2xl">Research and collect information</h1>
                   <p class="mb-3 text-xl leading-tight text-white">At launch an hDAO PA works on tasks specific to Data Entry and Research.</p>
                 </div>
               </div>
               <div class="p-6 lg:w-1/3 lg:p-4">
-                <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-16 pb-20 text-center">
+                <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-16 pb-20 text-center duration-300 ease-in hover:-translate-y-8">
                   <img class="relative mx-auto w-52" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/5_bfllic.png"></img>
                   <h1 class="title-font mb-3 text-2xl font-bold text-pink-title sm:text-2xl">Work remotely and flexibly</h1>
                   <p class="mb-3 text-xl leading-tight text-white">Being a PA is like doing gig work. You can select as many tasks as you want and work around your schedule.</p>
