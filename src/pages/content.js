@@ -311,7 +311,7 @@ export class Content extends Component {
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">What do I need to have?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
-                Tasks can be done remotely and in a short period of time; all it 3equires is a working device and a stable internet connection. It would be an advantage to have prior knowledge in online productivity tools such as Google Workspace,
+                Tasks can be done remotely and in a short period of time; all it requires is a working device and a stable internet connection. It would be an advantage to have prior knowledge in online productivity tools such as Google Workspace,
                 Search Engines, etc.
               </p>
             </div>
