@@ -61,50 +61,55 @@ export class Content extends Component {
             <div class="-m-2 lg:flex lg:flex-wrap">
               <div class="p-6 lg:w-1/2 lg:p-4">
                 <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-4 pb-4 text-center">
+                  <h1 class="py-4 text-center text-3xl font-bold text-white">Personal Tasks</h1>
                   <ul class="list-disc p-4 text-left">
                     <li class="py-2 text-white">Research flights and hotels</li>
-                    <li class="py-2 text-white">Find leads on social media and/or job board sites</li>
-                    <li class="py-2 text-white">Call stores/businesses to get information</li>
                     <li class="py-2 text-white">Price shop best offers for a product or service</li>
-                    <li class="py-2 text-white">Retrieve public records/addresses/contact details</li>
-                    <li class="py-2 text-white">Add accounts to a spreadsheet/CRM</li>
                     <li class="py-2 text-white">Event planning research</li>
                     <li class="py-2 text-white">Confirm appointments</li>
-                    <li class="py-2 text-white">Research and report the policies for this rule/law</li>
-                    <li class="py-2 text-white">Search and link to the roadmap of these 5 projects </li>
-                    <li class="py-2 text-white">Find and collect any data available on the internet</li>
-                    <li class="py-2 text-white">Find business or peoples email addresses or contact info</li>
-                    <li class="py-2 text-white">Find token unlock schedule for these projects</li>
-                    <li class="py-2 text-white">Find the upcoming NFT releases on Solana</li>
                     <li class="py-2 text-white">Research transportation options</li>
-                    <li class="py-2 text-white">Find and link to Discord servers for these 10 crypto projects</li>
-                    <li class="py-2 text-white">Make a list of the upcoming spaces/talks for these 6 crypto projects</li>
-                    <li class="py-2 text-white">Go to 3 Discord servers/Telegrams and find the answer to a question</li>
+                    <li class="py-2 text-white">Collate and file expenses into a spreadsheet</li>
                   </ul>
                 </div>
               </div>
               <div class="p-6 lg:w-1/2 lg:p-4">
                 <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-4 pb-4 text-center">
-                  <ul class="list-disc p-4 text-justify">
-                    <li class="py-2 text-white">Search and find particular images online for use</li>
-                    <li class="py-2 text-white">Transcribe audio</li>
-                    <li class="py-2 text-white">Convert analog documents to digital</li>
-                    <li class="py-2 text-white">Track data points over time</li>
+                  <h1 class="py-4 text-center text-3xl font-bold text-white">Administration</h1>
+                  <ul class="list-disc p-4 text-left">
+                    <li class="py-2 text-white">Add accounts to a spreadsheet/CRM</li>
+                    <li class="py-2 text-white">Find businesses or peoples emails or contact info</li>
+                    <li class="py-2 text-white">Search and find 10 particular images online for use</li>
+                    <li class="py-2 text-white">Transcribe audio or notes from a webinar</li>
                     <li class="py-2 text-white">Create/update spreadsheets</li>
-                    <li class="py-2 text-white">Who are the investors (VCs) in xyz company</li>
-                    <li class="py-2 text-white">Transfer internet data to a digital database</li>
-                    <li class="py-2 text-white">Light bookkeeping</li>
-                    <li class="py-2 text-white">Take notes from webinar</li>
-                    <li class="py-2 text-white">Fill out online forms</li>
                     <li class="py-2 text-white">Find and collect specific icons online</li>
-                    <li class="py-2 text-white">Verify outdated data, make changes to records</li>
-                    <li class="py-2 text-white">Create basic slide decks from content</li>
-                    <li class="py-2 text-white">Collate and file expenses</li>
-                    <li class="py-2 text-white">Document Template Creation</li>
+                    <li class="py-2 text-white">Verify outdated data, update changes to records</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="p-6 lg:w-1/2 lg:p-4">
+                <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-4 pb-4 text-center">
+                  <h1 class="py-4 text-center text-3xl font-bold text-white">Lead Generation</h1>
+                  <ul class="list-disc p-4 text-left">
+                    <li class="py-2 text-white">Find leads on social media and/or job board sites</li>
+                    <li class="py-2 text-white">Call stores/businesses to get information</li>
+                    <li class="py-2 text-white">Retrieve public records/addresses/contact details</li>
                     <li class="py-2 text-white">Find and link me to the blogs for these 10 projects</li>
                     <li class="py-2 text-white">Find and list popular YouTube channels and podcasts on P2E gaming</li>
                     <li class="py-2 text-white">Make a list of keywords to search for a specific product or service</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="p-6 lg:w-1/2 lg:p-4">
+                <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-4 pb-4 text-center">
+                  <h1 class="py-4 text-center text-3xl font-bold text-white">Web3 Research</h1>
+                  <ul class="list-disc p-4 text-left">
+                    <li class="py-2 text-white">Search and link to the roadmap of these 5 projects</li>
                     <li class="py-2 text-white">Research and collect certain data points over time</li>
+                    <li class="py-2 text-white">Find token unlock schedule for this project</li>
+                    <li class="py-2 text-white">Find upcoming NFT releases on Solana</li>
+                    <li class="py-2 text-white">Find and link me to the blogs for these 10 projects</li>
+                    <li class="py-2 text-white">Find and link to Discord servers for these 10 projects</li>
+                    <li class="py-2 text-white">Who are the investors (VCs) in xyz company</li>
                   </ul>
                 </div>
               </div>
