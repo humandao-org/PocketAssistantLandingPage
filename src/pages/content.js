@@ -218,75 +218,23 @@ export class Content extends Component {
         </section>
         <section class="resources body-font bg-purple-main text-gray-600">
           <div class="container mx-auto px-5 pb-12 pt-4">
-            <div class="mb-20 text-center">
+            <div class="mb-12 text-center">
               <h1 style={{ textShadow: "2px 3px white" }} class="mt-4 font-play text-4xl uppercase text-[#dd5b87] lg:text-6xl">
                 Need to prepare? <br></br> Study these free resources.
               </h1>
             </div>
-            <div class="-m-4 flex flex-wrap px-12">
-              <div class="w-full p-4 sm:w-1/2 lg:w-1/4">
-                <h2 class="title-font mb-4 text-center text-3xl font-bold uppercase text-purple-title sm:text-left">search</h2>
-                <nav class="-mb-1 flex flex-col items-center space-y-2.5 text-center sm:items-start sm:text-left">
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/google-search-for-beginners/overview.html" target="_blank" rel="noreferrer">
-                    <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
-                    Google Search for Beginners
-                  </a>
-                  <a class="font-medium text-black hover:text-purple-title" href="https://coursebuilder.withgoogle.com/sample/course" target="_blank" rel="noreferrer">
-                    <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
-                    Power Searching with Google
-                  </a>
-                </nav>
-              </div>
-              <div class="w-full p-4 sm:w-1/2 lg:w-1/4">
-                <h2 class="title-font mb-4 text-center text-3xl font-bold uppercase text-purple-title sm:text-left">google docs</h2>
-                <nav class="-mb-1 flex flex-col items-center space-y-2.5 text-center sm:items-start sm:text-left">
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-1/overview.html" target="_blank" rel="noreferrer">
-                    <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
-                    Part 1
-                  </a>
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-2/overview.html" target="_blank" rel="noreferrer">
-                    <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
-                    Part 2
-                  </a>
-                </nav>
-              </div>
-              <div class="w-full p-4 sm:w-1/2 lg:w-1/4">
-                <h2 class="title-font mb-4 text-center text-3xl font-bold uppercase text-purple-title sm:text-left">google sheets</h2>
-                <nav class="-mb-1 flex flex-col items-center space-y-2.5 text-center sm:items-start sm:text-left">
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-1/overview.html" target="_blank" rel="noreferrer">
-                    <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
-                    Part 1
-                  </a>
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-2/overview.html" target="_blank" rel="noreferrer">
-                    <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
-                    Part 2
-                  </a>
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-3/overview.html" target="_blank" rel="noreferrer">
-                    <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
-                    Part 3
-                  </a>
-                </nav>
-              </div>
-              <div class="w-full p-4 sm:w-1/2 lg:w-1/4">
-                <h2 class="title-font mb-4 text-center text-3xl font-bold uppercase text-purple-title sm:text-left">misc</h2>
-                <nav class="-mb-1 flex flex-col items-center space-y-2.5 text-center sm:items-start sm:text-left">
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-drive/overview.html" target="_blank" rel="noreferrer">
-                    <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
-                    Google Drive
-                  </a>
-                  <a class="font-medium text-black hover:text-purple-title" href="https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/evaluate-credibility-of-online-sources/overview.html" target="_blank" rel="noreferrer">
-                    <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
-                    Evaluate credibility of online sources
-                  </a>
-                  <a class="font-medium text-black hover:text-purple-title" href="https://www.grammarly.com/blog/how-does-grammarly-work/" target="_blank" rel="noreferrer">
-                    <span class="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-full bg-indigo-100 text-indigo-500">🔗</span>
-                    How to use grammarly
-                  </a>
-                </nav>
-              </div>
-            </div>
-            <div class="mx-auto w-full pt-20 lg:w-full lg:max-w-3xl">
+            <div class="mx-auto w-full lg:w-full lg:max-w-3xl">
               <img class="rounded object-cover object-center" alt="rocket" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651672451/hdao-pa/11_ufniuj.png"></img>
+            </div>
+            <div class="mx-auto mb-12">
+              <a
+                class="inline-flex items-center rounded-lg bg-purple-box px-4 py-4 font-bold text-white hover:bg-purple-box/80 focus:outline-none"
+                target="_blank"
+                rel="noreferrer"
+                href="https://drive.google.com/file/d/1J8t_uYnIdEVdvBBT4izAzPwvBtpGUOSE/view?usp=sharing"
+              >
+                <span className="mx-auto">View learning materials</span>
+              </a>
             </div>
           </div>
         </section>
