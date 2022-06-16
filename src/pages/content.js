@@ -81,7 +81,6 @@ export class Content extends Component {
                     <li class="py-2 text-white">Search and find 10 particular images online for use</li>
                     <li class="py-2 text-white">Transcribe audio or notes from a webinar</li>
                     <li class="py-2 text-white">Create/update spreadsheets</li>
-                    <li class="py-2 text-white">Find and collect specific icons online</li>
                     <li class="py-2 text-white">Verify outdated data, update changes to records</li>
                   </ul>
                 </div>
@@ -105,7 +104,6 @@ export class Content extends Component {
                   <ul class="list-disc p-4 text-left">
                     <li class="py-2 text-white">Search and link to the roadmap of these 5 projects</li>
                     <li class="py-2 text-white">Research and collect certain data points over time</li>
-                    <li class="py-2 text-white">Find token unlock schedule for this project</li>
                     <li class="py-2 text-white">Find upcoming NFT releases on Solana</li>
                     <li class="py-2 text-white">Find and link me to the blogs for these 10 projects</li>
                     <li class="py-2 text-white">Find and link to Discord servers for these 10 projects</li>
@@ -247,7 +245,7 @@ export class Content extends Component {
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">When can I start?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
-                The PA program launches sometime in July. But you need to become a certified hDAO PA by passing our Exam. You have plenty of time to learn the material (above) and take the Exam to enter the PA pool and start working when it launches.
+                The PA program launches sometime in July. But you need to become a qualified hDAO PA by passing our Exam. You have plenty of time to learn the material (above) and take the Exam to enter the PA pool and start working when it launches.
                 We highly recommend you complete each of the course links provided. Each link should only take 1-1.5 hrs but knowing this info will help you complete tasks quicker and with higher quality, which means more wages.
               </p>
               <p class="md:text-normal mt-6 text-base text-white sm:text-lg">Also, please tell your family and friends. They can all benefit and earn as a PA as these skills can be learned within a week.</p>
@@ -272,7 +270,7 @@ export class Content extends Component {
               <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">How much can I make?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
                 That is entirely up to you. This is considered gig/freelance work. So the more tasks you complete the more you will make. Payouts will be weekly. We will also be rewarding PA's in both quality and quantity with a bonus every week.
-                Those that finish in the top 40% of tasks completed and feedback score will make both bonuses. Bonuses can easily 2x the earning for those who qualify.{" "}
+                Bonuses can easily 2x the earning for those who qualify.{" "}
               </p>
               <p class="md:text-normal mt-6 text-base text-white sm:text-lg">
                 As we don't know how successful this will be it is hard to know prior to launch how much each task will be worth, but we can provide a minimum/floor value which is $1 per task. Remember, a task could take 3 minutes or 30, and with
