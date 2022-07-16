@@ -11,7 +11,7 @@ export class Content extends Component {
                 <h1 style={{ textShadow: "2px 4px white" }} class="title-font mx-auto mb-2 font-play text-5xl font-extrabold uppercase text-[#dd5b87] sm:text-left lg:text-7xl">
                   Pocket Assistant
                 </h1>
-                <p class="text-2xl font-bold text-black sm:text-left lg:text-left lg:text-3xl">Launching July</p>
+                <p class="text-2xl font-bold text-black sm:text-left lg:text-left lg:text-3xl">Launching Soon</p>
               </div>
             </div>
             <div class="mt-6 w-full  rounded-lg sm:mt-0 sm:w-1/3 lg:w-1/2">
@@ -245,8 +245,8 @@ export class Content extends Component {
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">When can I start?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
-                The PA program launches sometime in July. But you need to become a qualified hDAO PA by passing our Exam. You have plenty of time to learn the material (above) and take the Exam to enter the PA pool and start working when it launches.
-                We highly recommend you complete each of the course links provided. Each link should only take 1-1.5 hrs but knowing this info will help you complete tasks quicker and with higher quality, which means more wages.
+                The PA program launches sometime soon. But you need to become a qualified hDAO PA by passing our Exam. You have plenty of time to learn the material (above) and take the Exam to enter the PA pool and start working when it launches. We
+                highly recommend you complete each of the course links provided. Each link should only take 1-1.5 hrs but knowing this info will help you complete tasks quicker and with higher quality, which means more wages.
               </p>
               <p class="md:text-normal mt-6 text-base text-white sm:text-lg">Also, please tell your family and friends. They can all benefit and earn as a PA as these skills can be learned within a week.</p>
             </div>
