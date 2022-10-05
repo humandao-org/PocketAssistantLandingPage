@@ -273,7 +273,7 @@ export class Content extends Component {
                 Bonuses can easily 2x the earning for those who qualify.{" "}
               </p>
               <p class="md:text-normal mt-6 text-base text-white sm:text-lg">
-                As we don't know how successful this will be it is hard to know prior to launch how much each task will be worth, but we can provide a minimum/floor value which is $1 per task. Remember, a task could take 3 minutes or 30, and with
+                As we don't know how successful this will be it is hard to know prior to launch how much each task will be worth, but we can provide a minimum/floor value which is $2 per task. Remember, a task could take 3 minutes or 30, and with
                 bonuses and rewards it could be 2-3x higher. We highly recommend you complete each of the course links provided. Each link should only take 1-1.5 hrs but knowing this info will help you complete the tasks quicker and with higher
                 quality, which means more wages.
               </p>
