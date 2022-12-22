@@ -9,9 +9,8 @@ export class Content extends Component {
             <div class="-mx-4 mt-auto mb-auto flex flex-wrap content-start sm:w-2/3 sm:pr-10 lg:w-1/2">
               <div class="mb-6 w-full px-4 sm:p-4 md:px-12 lg:text-left">
                 <h1 style={{ textShadow: "2px 4px white" }} class="title-font mx-auto mb-2 font-play text-5xl font-extrabold uppercase text-[#dd5b87] sm:text-left lg:text-7xl">
-                  Pocket Assistant
+                  Pocket Assistants
                 </h1>
-                <p class="text-2xl font-bold text-black sm:text-left lg:text-left lg:text-3xl">Launching Soon</p>
               </div>
             </div>
             <div class="mt-6 w-full  rounded-lg sm:mt-0 sm:w-1/3 lg:w-1/2">
@@ -179,7 +178,7 @@ export class Content extends Component {
               <div class="p-6 lg:w-1/3 lg:p-4">
                 <div class="relative mx-auto h-full w-full rounded-lg bg-opacity-40 px-8 pt-16 pb-16 text-center">
                   <img class="relative mx-auto w-60" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625419/hdao-pa/8_kb9cua.png"></img>
-                  <h1 class="title-font mb-3 text-3xl font-bold text-pink-title lg:text-3xl">3. Earn wages weekly from completed tasks</h1>
+                  <h1 class="title-font mb-3 text-3xl font-bold text-pink-title lg:text-3xl">3. Earn wages from completed tasks paid weekly in $USD</h1>
                 </div>
               </div>
             </div>
