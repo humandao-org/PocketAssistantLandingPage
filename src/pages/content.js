@@ -9,7 +9,7 @@ export class Content extends Component {
             <div class="-mx-4 mt-auto mb-auto flex flex-wrap content-start sm:w-2/3 sm:pr-10 lg:w-1/2">
               <div class="mb-6 w-full px-4 sm:p-4 md:px-12 lg:text-left">
                 <h1 style={{ textShadow: "2px 4px white" }} class="title-font mx-auto mb-2 font-play text-5xl font-extrabold uppercase text-[#dd5b87] sm:text-left lg:text-7xl">
-                  Pocket Assistants
+                  Pocket Assistant
                 </h1>
               </div>
             </div>
@@ -21,7 +21,7 @@ export class Content extends Component {
         <section class="intro body-font bg-purple-content text-gray-600">
           <div class="flex w-full flex-col text-center">
             <h1 style={{ textShadow: "2px 2px black" }} class="mx-8 mt-20 font-play text-5xl uppercase text-white-lt lg:text-6xl">
-              What does an hDAO PA do?
+              What does an hDAO Assistant do?
             </h1>
           </div>
           <div class="container mx-auto px-5 py-24">
@@ -30,21 +30,21 @@ export class Content extends Component {
                 <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-16 pb-20 text-center">
                   <img class="relative mx-auto w-52" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/3_mh4kih.png"></img>
                   <h1 class="title-font mb-3 text-2xl font-bold text-pink-title sm:text-2xl">Works on day-to-day tasks</h1>
-                  <p class="mb-3 text-xl leading-tight text-white">A PA supports clients by doing day-to-day tasks in order to help them free up their time.</p>
+                  <p class="mb-3 text-xl leading-tight text-white">An Assistant supports clients by doing day-to-day tasks in order to help them free up their time.</p>
                 </div>
               </div>
               <div class="p-6 lg:w-1/3 lg:p-4">
                 <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-16 pb-20 text-center duration-300 ease-in hover:-translate-y-8">
                   <img class="relative mx-auto w-52" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/4_or3wbg.png"></img>
                   <h1 class="title-font mb-3 text-2xl font-bold text-pink-title sm:text-2xl">Research and collect information</h1>
-                  <p class="mb-3 text-xl leading-tight text-white">At launch an hDAO PA works on tasks specific to Data Entry and Research.</p>
+                  <p class="mb-3 text-xl leading-tight text-white">At launch a hDAO Assistant works on tasks specific to Data Entry and Research.</p>
                 </div>
               </div>
               <div class="p-6 lg:w-1/3 lg:p-4">
                 <div class="relative h-full rounded-2xl bg-purple-box bg-opacity-40 px-8 pt-16 pb-20 text-center duration-300 ease-in hover:-translate-y-8">
                   <img class="relative mx-auto w-52" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/5_bfllic.png"></img>
                   <h1 class="title-font mb-3 text-2xl font-bold text-pink-title sm:text-2xl">Work remotely and flexibly</h1>
-                  <p class="mb-3 text-xl leading-tight text-white">Being a PA is like doing gig work. You can select as many tasks as you want and work around your schedule.</p>
+                  <p class="mb-3 text-xl leading-tight text-white">Being an Assistant is like doing gig work. You can select as many tasks as you want and work around your schedule.</p>
                 </div>
               </div>
             </div>
@@ -194,12 +194,12 @@ export class Content extends Component {
                 Interested?
               </h1>
               <p class="mb-8 text-justify text-xl font-medium leading-relaxed text-black">
-                If you are someone who is able to use online tools and is willing to work on a weekly basis, hDAO has a new way for you to make money through the Pocket Assistant opportunity. If you don't have the skills required for the PA role,
+                If you are someone who is able to use online tools and is willing to work on a weekly basis, hDAO has a new way for you to make money through the Pocket Assistant opportunity. If you don't have the skills required for the Assistant role,
                 don't worry. We have provided learning materials below so that you can learn these tools and platforms and join the PA program.
               </p>
               <div class="mx-auto flex flex-col space-y-4 lg:mx-0 lg:flex-row lg:space-y-0 lg:space-x-4">
                 <a class="inline-flex items-center rounded-lg bg-purple-box px-4 py-4 font-bold text-white hover:bg-purple-box/80 focus:outline-none" target="_blank" rel="noreferrer" href="https://forms.gle/PZGDjDBXZC8WE26CA">
-                  <span className="mx-auto">Become a PA</span>
+                  <span className="mx-auto">Become an Assistant</span>
                 </a>
                 <a
                   class="hover:bg- inline-flex items-center rounded-lg bg-gray-100 px-4 py-4 font-bold text-purple-title hover:text-purple-900 focus:outline-none"
@@ -244,10 +244,10 @@ export class Content extends Component {
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">When can I start?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
-                The PA program launches sometime soon. But you need to become a qualified hDAO PA by passing our Exam. You have plenty of time to learn the material (above) and take the Exam to enter the PA pool and start working when it launches. We
+                The PA program launches sometime soon. But you need to become a qualified hDAO Assistant by passing our Exam. You have plenty of time to learn the material (above) and take the Exam to enter the PA pool and start working when it launches. We
                 highly recommend you complete each of the course links provided. Each link should only take 1-1.5 hrs but knowing this info will help you complete tasks quicker and with higher quality, which means more wages.
               </p>
-              <p class="md:text-normal mt-6 text-base text-white sm:text-lg">Also, please tell your family and friends. They can all benefit and earn as a PA as these skills can be learned within a week.</p>
+              <p class="md:text-normal mt-6 text-base text-white sm:text-lg">Also, please tell your family and friends. They can all benefit and earn as an Assistant as these skills can be learned within a week.</p>
             </div>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">How does it work?</h3>
@@ -268,7 +268,7 @@ export class Content extends Component {
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">How much can I make?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
-                That is entirely up to you. This is considered gig/freelance work. So the more tasks you complete the more you will make. Payouts will be weekly. We will also be rewarding PA's in both quality and quantity with a bonus every week.
+                That is entirely up to you. This is considered gig/freelance work. So the more tasks you complete the more you will make. Payouts will be weekly. We will also be rewarding Assistants in both quality and quantity with a bonus every week.
                 Bonuses can easily 2x the earning for those who qualify.{" "}
               </p>
               <p class="md:text-normal mt-6 text-base text-white sm:text-lg">
@@ -285,7 +285,7 @@ export class Content extends Component {
             <div class="mx-auto flex flex-col items-start sm:flex-row sm:items-center lg:w-2/3">
               <h1 class="title-font mx-auto flex-grow pb-4 text-2xl font-medium text-gray-900 sm:pr-12 lg:pb-0 lg:text-left">Ready to start your journey to earning?</h1>
               <a class="mx-auto items-center rounded-lg bg-purple-box py-4 px-5 font-bold text-white hover:bg-purple-box/80 focus:outline-none lg:inline-flex" target="_blank" rel="noreferrer" href="https://forms.gle/PZGDjDBXZC8WE26CA">
-                Become a PA
+                Become an Assistant
               </a>
             </div>
           </div>
