@@ -9,7 +9,7 @@ export class Content extends Component {
             <div class="-mx-4 mt-auto mb-auto flex flex-wrap content-start sm:w-2/3 sm:pr-10 lg:w-1/2">
               <div class="mb-6 w-full px-4 sm:p-4 md:px-12 lg:text-left">
                 <h1 style={{ textShadow: "2px 4px white" }} class="title-font mx-auto mb-2 font-play text-5xl font-extrabold uppercase text-[#dd5b87] sm:text-left lg:text-7xl">
-                  Pocket Assistant
+                  Human Task Force
                 </h1>
               </div>
             </div>
@@ -166,7 +166,7 @@ export class Content extends Component {
               <div class="mx-auto p-6 lg:w-1/3 lg:p-4">
                 <div class="relative mx-auto h-full w-full rounded-lg bg-opacity-40 px-8 pt-16 text-center">
                   <img class="relative mx-auto w-60" src="https://res.cloudinary.com/daljbo1q0/image/upload/v1651625418/hdao-pa/6_opuxa4.png"></img>
-                  <h1 class="title-font mb-3 text-3xl font-bold text-pink-title lg:text-3xl">1. Study and take the PA exam</h1>
+                  <h1 class="title-font mb-3 text-3xl font-bold text-pink-title lg:text-3xl">1. Complete the intro missions</h1>
                 </div>
               </div>
               <div class="mx-auto p-6 lg:w-1/3 lg:p-4">
@@ -194,8 +194,8 @@ export class Content extends Component {
                 Interested?
               </h1>
               <p class="mb-8 text-justify text-xl font-medium leading-relaxed text-black">
-                If you are someone who is able to use online tools and is willing to work on a weekly basis, hDAO has a new way for you to make money through the Pocket Assistant opportunity. If you don't have the skills required for the Assistant role,
-                don't worry. We have provided learning materials below so that you can learn these tools and platforms and join the PA program.
+                If you are someone who is able to use online tools and is willing to work on a weekly basis, hDAO has a new way for you to make money through HTF platform. If you don't have the skills required for the Assistant role,
+                don't worry. We have provided learning materials below so that you can learn these tools and platforms and join the program.
               </p>
               <div class="mx-auto flex flex-col space-y-4 lg:mx-0 lg:flex-row lg:space-y-0 lg:space-x-4">
                 <a class="inline-flex items-center rounded-lg bg-purple-box px-4 py-4 font-bold text-white hover:bg-purple-box/80 focus:outline-none" target="_blank" rel="noreferrer" href="https://forms.gle/PZGDjDBXZC8WE26CA">
@@ -244,10 +244,8 @@ export class Content extends Component {
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">When can I start?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
-                The PA program launches sometime soon. But you need to become a qualified hDAO Assistant by passing our Exam. You have plenty of time to learn the material (above) and take the Exam to enter the PA pool and start working when it launches. We
-                highly recommend you complete each of the course links provided. Each link should only take 1-1.5 hrs but knowing this info will help you complete tasks quicker and with higher quality, which means more wages.
+                Applications are currently open for new assistants. Once an assistant is accepted, they can begin to complete the introduction missions to get up to speed with the platform. There is a financial incentive for completing the intro missions, and once completed, you will be able to commence working with real users of the platform.
               </p>
-              <p class="md:text-normal mt-6 text-base text-white sm:text-lg">Also, please tell your family and friends. They can all benefit and earn as an Assistant as these skills can be learned within a week.</p>
             </div>
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">How does it work?</h3>
@@ -268,13 +266,8 @@ export class Content extends Component {
             <div class="mx-auto mt-10 w-full rounded-lg border bg-purple-box/70 px-6 py-6 text-justify sm:px-8 sm:py-8 sm:shadow md:px-12 lg:w-5/6 xl:w-2/3">
               <h3 class="py-4 text-lg font-bold text-white sm:text-xl md:text-3xl">How much can I make?</h3>
               <p class="md:text-normal mt-2 text-base text-white sm:text-lg">
-                That is entirely up to you. This is considered gig/freelance work. So the more tasks you complete the more you will make. Payouts will be weekly. We will also be rewarding Assistants in both quality and quantity with a bonus every week.
-                Bonuses can easily 2x the earning for those who qualify.{" "}
-              </p>
-              <p class="md:text-normal mt-6 text-base text-white sm:text-lg">
-                As we don't know how successful this will be it is hard to know prior to launch how much each task will be worth, but we can provide a minimum/floor value which is $2 per task. Remember, a task could take 3 minutes or 30, and with
-                bonuses and rewards it could be 2-3x higher. We highly recommend you complete each of the course links provided. Each link should only take 1-1.5 hrs but knowing this info will help you complete the tasks quicker and with higher
-                quality, which means more wages.
+                That is entirely up to you. This is considered gig/freelance work. So the more tasks you complete the more you will make. Payouts will be weekly.
+                {" "}
               </p>
             </div>
           </div>
